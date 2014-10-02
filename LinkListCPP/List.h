@@ -2,8 +2,6 @@
 #define _LIST_H_
 #include <string>
 
-
-
 class List {
 	private:
 		struct node {
@@ -24,6 +22,5 @@ class List {
 		void deleteAllItems();
 		void reverseList();
 };
-
 
 #endif

@@ -1,3 +1,10 @@
+/*=============================================================================
+|		 Title:  Linked List C++ Implementation
+|       Author:  Anýl Altunkan
+|		E-Mail:	 altunkan@gmail.com
+|  Description:  Simple Linked List Console Application
+*=============================================================================*/
+
 #include <cstdlib>
 #include <string>
 #include <iostream>
